@@ -131,6 +131,7 @@ body {
   text-align: center;
   border: none;
   background: #2d353fc9;
+  transition: all 0.5s ease;
 }
 .container .card .rating_box .rating:hover {
   cursor: pointer;
@@ -162,6 +163,7 @@ body {
   letter-spacing: 0.1rem;
   background: #da6a1b;
   box-shadow: 0px 0px 3px 1px #8080802f, 0px 0px 5px 1px #0b0c0e;
+  transition: all 0.5s ease;
 }
 .container .card .submit_box .submit:hover {
   cursor: pointer;
